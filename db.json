@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta e Branca",
+      "price": "6.00"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Samsumg S20+",
+      "price": 5000
+    },
+    {
+      "name": "Celular",
+      "price": 750,
+      "id": 4
+    },
+    {
+      "name": "Pendrive Samsung",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "noteboo samsumg",
+      "price": "5000.00",
+      "id": 9
+    },
+    {
+      "name": "teste",
+      "price": "1000000",
+      "id": 10
+    }
+  ]
+}
